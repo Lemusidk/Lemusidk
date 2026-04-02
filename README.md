@@ -81,12 +81,6 @@ Aplicación desarrollada en hackathon para localización de tiendas en tiempo re
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=Lemusidk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemusidk&layout=compact&theme=tokyonight)
-
----
-
 ## 📬 Contacto
 - LinkedIn: [Tu perfil](TU_LINK_LINKEDIN)
 - Email: [lemus.idk@gmail.com]
